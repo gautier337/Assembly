@@ -1,0 +1,8 @@
+Assembly
+*.o
+*.so
+.vscode
+note
+test
+main_test.c
+test.c
